@@ -171,6 +171,10 @@ Expected results, in command order:
 
 All three matching results confirm the unlocked state. Treat empty or different results as unconfirmed. Do not write a GSI or modified vbmeta before confirming unlock. This guide does not cover ROM installation.
 
+## GSI and image downloads
+
+The maintainer shares OPPO Reno 5 Lite GSIs and images on Telegram: [Join the Telegram group](https://t.me/+fctoFSsmWJxjYmVk).
+
 ## Where are the files?
 
 | File / directory | Purpose |

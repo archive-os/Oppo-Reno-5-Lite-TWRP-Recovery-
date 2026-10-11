@@ -171,6 +171,10 @@ Beklenen sonuçlar, komut sırasıyla:
 
 Üç sonuç da eşleşiyorsa kilit açılması doğrulanmış olur. Boş veya farklı sonuç varsa işlemi başarılı sayma. Kilit açılması doğrulanmadan GSI veya değiştirilmiş vbmeta yazma. Bu rehber ROM kurulumunu kapsamaz.
 
+## GSI ve imaj paylaşımları
+
+OPPO Reno 5 Lite için paylaştığım GSI ve imajlara Telegram grubundan ulaşabilirsiniz: [Telegram grubuna katıl](https://t.me/+fctoFSsmWJxjYmVk).
+
 ## Dosyalar nerede?
 
 | Dosya / klasör | Ne işe yarar? |

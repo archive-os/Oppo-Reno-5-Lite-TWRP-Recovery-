@@ -22,6 +22,10 @@ The BOOT1 write was read back and compared byte for byte with the patched image.
 
 For the exact commands, device-specific length assumptions, original-image restoration path and troubleshooting, use the [full guide](README.md). Do not apply A/B assumptions, other-device images or arbitrary downgrade instructions.
 
+## GSI and image downloads
+
+The maintainer shares OPPO Reno 5 Lite GSIs and images on Telegram: [Join the Telegram group](https://t.me/+fctoFSsmWJxjYmVk).
+
 ## Credits
 
 This repository documents an experience; it does not implement a new exploit.

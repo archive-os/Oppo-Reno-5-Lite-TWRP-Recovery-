@@ -11,8 +11,16 @@ Bootloader unlock documentation and TWRP recovery for **CPH2205 / Android 13 / C
 
 **Unlocking erases personal data. Writing a modified boot image can prevent the phone from starting. Backups do not guarantee recovery.** Read the documentation in each folder before use. Compatibility with other models or firmware versions is not guaranteed.
 
+## GSI and image downloads
+
+The maintainer shares OPPO Reno 5 Lite GSIs and images on Telegram: [Join the Telegram group](https://t.me/+fctoFSsmWJxjYmVk).
+
 ## Türkçe
 
 Bu depo, CPH2205 / Android 13 / CPH2205_11_F.72 için kilit açma rehberini ve TWRP recovery imajını içerir. Kilit açma rehberi Türkçe ve İngilizcedir. **Cihaz sahibi TWRP'yi denediğini ve çalıştığını doğruladı.** Kilit açma verileri siler; değiştirilmiş açılış imajı yazmak telefonu açılmaz hâle getirebilir. Kullanımdan önce ilgili klasörün açıklamalarını okuyun. Başka model ve sürümler için uyumluluk garantisi yoktur.
+
+## GSI ve imaj paylaşımları
+
+OPPO Reno 5 Lite için paylaştığım GSI ve imajlara Telegram grubundan ulaşabilirsiniz: [Telegram grubuna katıl](https://t.me/+fctoFSsmWJxjYmVk).
 
 Tools and documentation retain the licenses and attribution included in their respective folders.
