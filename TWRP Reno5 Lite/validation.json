@@ -1,0 +1,19 @@
+{
+  "status": "offline_structure_checks_passed",
+  "device_tested": true,
+  "flashed": null,
+  "size": 41975808,
+  "sha256": "5a8992aab87bc0b3137c68235cc143aa3e70bd47db61fbd43cd77924be1089b4",
+  "stock_components": {
+    "kernel": "fc758ec8cdd26d069bcbfbe5a267d0ff809994fc4a9d9600ec8cadb6df7a1ca3",
+    "dtbo.img": "e628b5fd4ce6e375743be8f80e2199bbbb3af1b63e8528952ef791ca473a3922",
+    "dtb.img": "e43035b583fc65aaf07b2f2370310399fd952ecf25fa1daf1c6ea4bdbe92f98f"
+  },
+  "ramdisk_entries": 3513,
+  "avb_footer": false,
+  "header_version": 2,
+  "page_size": 2048,
+  "device_result": "working_reported_by_owner",
+  "device_result_source": "Owner confirmed that TWRP was tested and works on 2026-10-11.",
+  "flash_note": "Installation method was not specified in the owner report."
+}
